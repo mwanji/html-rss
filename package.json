@@ -1,0 +1,25 @@
+{
+  "name": "html-rss",
+  "version": "0.1.0",
+  "description": "Create an RSS feed from HTML files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwanji/html-rss.git"
+  },
+  "author": "Moandji Ezana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwanji/html-rss/issues"
+  },
+  "homepage": "https://github.com/mwanji/html-rss#readme",
+  "dependencies": {
+    "date-fns": "^2.15.0",
+    "feed": "^4.2.1",
+    "htmlparser2": "^4.1.0",
+    "nodejs-fs-utils": "^1.2.5"
+  }
+}
